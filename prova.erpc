@@ -1,0 +1,8 @@
+program pippo
+
+interface pluto
+{
+    scrivi(uint32 val) -> bool
+    leggi() -> uint32
+}
+
